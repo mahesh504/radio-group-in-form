@@ -22,4 +22,4 @@ used following data for display data
     {"key": "d", "val": "four"}
   ];
 
-  oupput : https://github.com/mahesh504/radio-group-in-form/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-01-31%20at%2022.24.51.png
+  oupput : ![alt text](https://github.com/mahesh504/radio-group-in-form/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-01-31%20at%2022.24.51.png)
